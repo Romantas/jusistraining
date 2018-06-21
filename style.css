@@ -1,0 +1,23 @@
+/*
+	Theme name: AR forum
+	Theme URI: www.localhost.com
+	Author: Romantas Trumpa
+	Descripstion: nauja tema naujam puslapiui
+*/
+.entry-title {
+	font-family: Montserrat, "Helvetica Neue", sans-serif;
+	font-size: 28px;
+	font-size: 1.75rem;
+	font-weight: 700;
+	line-height: 1.25;
+	margin-bottom: 1em;
+}
+
+.entry-title a {
+	color: #1a1a1a;
+}
+
+.entry-title a:hover,
+.entry-title a:focus {
+	color: #007acc;
+}
